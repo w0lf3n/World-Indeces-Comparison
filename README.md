@@ -12,3 +12,5 @@
   * select additional lists from [Wikipedia](https://en.wikipedia.org/wiki/List_of_international_rankings) as start of research
     * [Zero net tracker](https://zerotracker.net/)
     * [Atlas der Zivilgesellschaft](https://www.brot-fuer-die-welt.de/themen/atlas-der-zivilgesellschaft/)
+
+* check for data [https://www.ituc-csi.org/](https://www.ituc-csi.org/)
